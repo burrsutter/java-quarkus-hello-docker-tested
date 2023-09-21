@@ -34,7 +34,7 @@ public class GreetingResource {
         String stringNow = simpleDateFormat.format(new Date());
 
         System.out.println("Count: " + cnt);
-        return "Aloha Burr " + cnt++ + " " + stringNow + " on " + HOSTNAME;
+        return "Aloha Burr  " + cnt++ + " " + stringNow + " on " + HOSTNAME;
     }
 
     @GET
