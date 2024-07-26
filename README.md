@@ -18,3 +18,5 @@ curl localhost:8080
 
 Hello Quarkus 1 12-24-2022 03:39:03 on e29c6975f9e3
 ```
+
+Updated Jul 26
